@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 51bb0848f87c63944963d25253ee94b8
+  m_Entries:
+  - m_Id: 10384101376
+    m_Key: play_button_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121872896000
+    m_Key: exit_button_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211626807296
+    m_Key: back_button_text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1454609431883677720
+  references:
+    version: 2
+    RefIds:
+    - rid: 1454609431883677720
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701107460149
