@@ -19,7 +19,10 @@ All scripts are written by me.
 
 ~ ~ ~
 
-Wasn't sure what exactly point 8 meant but I made a script for button that changes the scene, then made it public and then called it from the spaceman sprite when he is clicked on.
+Judging by the task, I've tried to make overall structure look nice and neat, even if it cost additional time.
+In total, I've spent on this task one Sunday and a Monday evening.
+
+Wasn't sure what exactly point 8 meant but I made a script for button that changes the scene, then made it public and now it gets called from the spaceman sprite when he is clicked on.
 
 ~ ~ ~
 
