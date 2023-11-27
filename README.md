@@ -9,7 +9,7 @@ I was not able to boot this version on my machine.
 I belevie it is an issue with a licence because if I delete .ulf file in Program data Unity boots up and asks to activate a licence.
 With active licence, not even a splash sceen shows up. Maybe the licence has changed since that version of Unity?
 I decided to not waste any more time and just use a closest version I'm able to boot with my current licence.
-This version turned out to be 2021.3.32f, which is also a LTS version so it could be the reason.
+This version turned out to be 2021.3.32f, which is also a LTS version so it could be the reason it works.
 
 As Git application, GitHub Desktop is used.
 
