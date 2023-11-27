@@ -32,3 +32,5 @@ Main menu music - https://opengameart.org/content/space-echo
 Game music - https://opengameart.org/content/free-space-music
 
 Robot character with spine animation - https://assetstore.unity.com/packages/2d/characters/2d-animated-character-rust-186513
+
+Font used for "Play" button - https://www.1001fonts.com/nasalization-free-font.html
