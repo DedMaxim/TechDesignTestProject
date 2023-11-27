@@ -15,7 +15,13 @@ As Git application, GitHub Desktop is used.
 
 Spine Runtime is version 3.8, since it is the version I found an animation for.
 
+All scripts are written by me.
 
+~ ~ ~
+
+Wasn't sure what exactly point 8 meant but I made a script for button that changes the scene, then made it public and then called it from the spaceman sprite when he is clicked on.
+
+~ ~ ~
 
 Resources used:
 
@@ -32,3 +38,5 @@ Main menu music - https://opengameart.org/content/space-echo
 Game music - https://opengameart.org/content/free-space-music
 
 Robot character with spine animation - https://assetstore.unity.com/packages/2d/characters/2d-animated-character-rust-186513
+
+Font used for "Play" button - https://www.1001fonts.com/nasalization-free-font.html
