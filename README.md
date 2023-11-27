@@ -15,7 +15,13 @@ As Git application, GitHub Desktop is used.
 
 Spine Runtime is version 3.8, since it is the version I found an animation for.
 
+All scripts are written by me.
 
+~ ~ ~
+
+Wasn't sure what exactly point 8 meant but I made a script for button that changes the scene, then made it public and then called it from the spaceman sprite when he is clicked on.
+
+~ ~ ~
 
 Resources used:
 
